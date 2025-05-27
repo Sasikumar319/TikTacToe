@@ -1,12 +1,9 @@
-<p align="center">
+<p float="left">
   <img src="https://github.com/user-attachments/assets/612407c9-9787-4108-8842-90ec6ff8f2e2" width="250" />
-</p>
-<p align="center">Login Screen</p>
-
-<p align="center">
+  &nbsp; &nbsp;
   <img src="https://github.com/user-attachments/assets/1cb64b11-a9d2-4220-8d77-a1d4f537b5d9" width="250" />
 </p>
-<p align="center">Game Screen</p>
+
 
 
 
